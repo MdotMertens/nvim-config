@@ -1,0 +1,11 @@
+vim.g.mapleader = " "
+vim.opt.undofile = true
+vim.opt.cursorline = true
+vim.opt.autoindent = true
+vim.opt.tabstop = 4
+vim.opt.shiftwidth = 4
+vim.opt.softtabstop = 4
+vim.opt.expandtab = true
+vim.opt.updatetime = 1000
+vim.opt.rnu = true
+vim.opt.cmdheight = 0
